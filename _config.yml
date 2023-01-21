@@ -1,0 +1,10 @@
+# basic options
+title: Shaoru's website
+author: ShaoruChen
+email: shaoruchen@microsoft.com
+description: A wonderful website
+github_username: ShaoruChen
+
+# build settings
+markdown: kramdown
+theme: al-folio
