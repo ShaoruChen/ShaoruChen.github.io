@@ -83,11 +83,11 @@ author:
   name             : "Shaoru Chen"
   avatar           : "profile.jpg"
   bio              : "Safe AI"
-  location         : "New York City"
-  employer         : "Microsoft Research"
+  location         : 
+  employer         : "Microsoft Research, NYC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4O9c5ysAAAAJ&hl=en"
-  email            : "shaoruchen@microsoft.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "shaoru-chen-081a40129/"
-  orcid            : "0000-0001-9416-0627"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
