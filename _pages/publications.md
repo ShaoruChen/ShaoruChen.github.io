@@ -10,8 +10,8 @@ author_profile: true
 
 <ol reversed>
   <li>
-  	<b>Shaoru Chen</b>, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023. <a href="https://arxiv.org/pdf/2203.11375"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
-  <a href="https://github.com/ShaoruChen/Polytopic-SLSMPC">	<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="20" height="20"> </a> 
+  	<b>Shaoru Chen</b>, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023. <a href="https://arxiv.org/pdf/2203.11375"> <img src="files/file-pdf-solid.svg" width="20" height="20"> </a> 
+  <a href="https://github.com/ShaoruChen/Polytopic-SLSMPC">	<img src="files/github.svg" width="20" height="20"> </a> 
 </li>
   <li>
   	Shuo Yang<sup>*</sup>, <b>Shaoru Chen</b><sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. <a href="https://arxiv.org/pdf/2209.10034"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
