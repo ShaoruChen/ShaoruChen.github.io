@@ -9,11 +9,20 @@ author_profile: true
 ## Journal Publications
 
 <ol reversed>
-  <li><b>Shaoru Chen</b>, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023 (to appear). <a href=”https://www.google.com“> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
-  <a href="https://www.google.com">	<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="20" height="20"> </a> </li>
-  <li>Shuo Yang<sup>*</sup>, <b>Shaoru Chen</b><sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. </li>
-  <li><b>Shaoru Chen</b><sup>*</sup>, Eric Wong<sup>*</sup>, J. Zico Kolter, and Mahyar Fazlyab. DeepSplit: Scalable Verification of Deep Neural Networks via Operator Splitting. IEEE Open Journal of Control Systems (OJCSYS), 2021. </li>
-  <li> James T. Allen, <b>Shaoru Chen</b>, and Nael H. El-Farra. Model-based Strategies for Sensor Fault Accommodation in Uncertain Dynamic Processes with Multi-rate Sampled Measurements. Chemical Engineering Research and Design, 2019. </li>
+  <li>
+  	<b>Shaoru Chen</b>, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023 (to appear). <a href="https://arxiv.org/pdf/2203.11375"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
+  <a href="https://github.com/ShaoruChen/Polytopic-SLSMPC">	<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="20" height="20"> </a> 
+</li>
+  <li>
+  	Shuo Yang<sup>*</sup>, <b>Shaoru Chen</b><sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. <a href="https://arxiv.org/pdf/2209.10034"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
+  </li>
+  <li>
+  	<b>Shaoru Chen</b><sup>*</sup>, Eric Wong<sup>*</sup>, J. Zico Kolter, and Mahyar Fazlyab. DeepSplit: Scalable Verification of Deep Neural Networks via Operator Splitting. IEEE Open Journal of Control Systems (OJCSYS), 2021. <a href="https://arxiv.org/pdf/2106.09117.pdf"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
+  <a href="https://github.com/ShaoruChen/DeepSplit">	<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" width="20" height="20"> </a> 
+  </li>
+  <li> 
+  	James T. Allen, <b>Shaoru Chen</b>, and Nael H. El-Farra. Model-based Strategies for Sensor Fault Accommodation in Uncertain Dynamic Processes with Multi-rate Sampled Measurements. Chemical Engineering Research and Design, 2019. 
+  </li>
 </ol>
 
 
