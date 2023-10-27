@@ -8,14 +8,11 @@ author_profile: true
 I am broadly interested in machine learning, control, and optimization. My long-term goal is to make AI-enabled autonomous systems work safely and reliably in the real world. 
 
 ## Scalable Neural Network Verification
-<div>
-<img src="/files/admm_module.png" alt="ADMM modules for NN verification" width="300"/>
-<span>
+<img src="/files/admm_module.png" align="left" alt="ADMM modules for NN verification" width="300"/>
 Neural network verification considers the problem of certifying if the output of a NN satisfies certain properties for a given input set. This is a fundamental problem in certifying the robustness of NNs and the safety of NN-controlled systems. 
 
 In [J2](https://ieeexplore.ieee.org/abstract/document/9811356), we use Alternating Direction Method of Multipliers (ADMM) to derive a NN verification method, DeepSplit, that is scalable, modular, amenable to GPU acceleration and enjoys fast theoretical convergence guarantees. 
-</span>
-</div>
+
 
 ## Safety and stability analysis of learning-enabled systems
 <div>
