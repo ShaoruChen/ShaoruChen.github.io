@@ -32,7 +32,7 @@ In [J4](https://arxiv.org/pdf/2203.11375.pdf),  we propose a novel robust MPC me
 
 
 ## Online safety filter design for learning-enabled systems
-<img src="/files/gauge_CBF.png"  align="left" alt="Safe-by-construction NN controller using a control barrier function." width="300"/>
+<img src="/files/gauge_CBF.png"  align="left" alt="Safe-by-construction NN controller using a control barrier function." width="350"/>
 
 A safety filter monitors the output of a reference policy online and corrects any unsafe actions to guarantee the safety of the system. It enjoys modularity and theoretical soundness, making it a popular and promising tool for safe learning-based control. However, it remains a challenge to design a safety filter for complex dynamics. 
 
