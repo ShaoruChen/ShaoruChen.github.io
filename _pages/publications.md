@@ -8,14 +8,13 @@ author_profile: true
 
 ## Journal Publications
 
-4. **Shaoru Chen**, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023 (to appear). 
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="50" height="50">
+<ol reversed>
+  <li>**Shaoru Chen**, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023 (to appear). [pdf](https://scholar.google.com/citations?user=4O9c5ysAAAAJ&hl=en) </li>
+  <li>Shuo Yang<sup>*</sup>, **Shaoru Chen**<sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. </li>
+  <li>**Shaoru Chen**<sup>*</sup>, Eric Wong<sup>*</sup>, J. Zico Kolter, and Mahyar Fazlyab. DeepSplit: Scalable Verification of Deep Neural Networks via Operator Splitting. IEEE Open Journal of Control Systems (OJCSYS), 2021. </li>
+  <li> James T. Allen, **Shaoru Chen**, and Nael H. El-Farra. Model-based Strategies for Sensor Fault Accommodation in Uncertain Dynamic Processes with Multi-rate Sampled Measurements. Chemical Engineering Research and Design, 2019. </li>
+</ol>
 
-3. Shuo Yang<sup>*</sup>, **Shaoru Chen**<sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. 
-
-2. **Shaoru Chen**<sup>*</sup>, Eric Wong<sup>*</sup>, J. Zico Kolter, and Mahyar Fazlyab. DeepSplit: Scalable Verification of Deep Neural Networks via Operator Splitting. IEEE Open Journal of Control Systems (OJCSYS), 2021. 
-
-1. James T. Allen, **Shaoru Chen**, and Nael H. El-Farra. Model-based Strategies for Sensor Fault Accommodation in Uncertain Dynamic Processes with Multi-rate Sampled Measurements. Chemical Engineering Research and Design, 2019.
 
 ## Conference Publications
 10. **Shaoru Chen**<sup>*</sup>, Kong Yao Chee<sup>*</sup>, Nikolai Matni, M. Ani Hsieh, George J. Pappas. Safety Filter Design for Neural Network Systems via Convex Optimization. IEEE Conference on Decision and Control (CDC), 2023.
