@@ -49,7 +49,7 @@ author_profile: true
 </li>
 <li>
   Han Wang, Mahyar Fazlyab, <b>Shaoru Chen</b>, and Victor M. Preciado. Robust Convergence Analysis of Three-Operator Splitting. Annual Allerton Conference on Communication, Control, and Computing (Allerton), 2019.
- <a href="https://arxiv.org/pdf/1910.04229.pdf"><img src="/files/file-pdf-solid.svg" width="20" height="20"> 
+ <a href="https://arxiv.org/pdf/1910.04229.pdf"><img src="/files/file-pdf-solid.svg" width="20" height="20"></a>
 </li>
 <li>
   <b>Shaoru Chen</b>, James T. Allen, and Nael H. El-Farra. Stability and Performance-Based Strategies for Sensor Fault Accommodation in Multi-rate Sampled-data Processes. IFAC-PapersOnLine 50, no. 1 (2017): 14782-14787.
