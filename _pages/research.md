@@ -9,14 +9,14 @@ I am broadly interested in machine learning, control, and optimization. My long-
 
 ## Scalable Neural Network Verification
 <!-- <img src="/files/admm_module.png" alt="ADMM modules for NN verification" width="100"/> -->
-<img src="/files/admm_module.png" width="100"/>
+<!-- <img src="/files/admm_module.png" width="100"/> -->
 
 Neural network verification considers the problem of certifying if the output of a NN satisfies certain properties for a given input set. This is a fundamental problem in certifying the robustness of NNs and the safety of NN-controlled systems. 
 
 In [J2](https://ieeexplore.ieee.org/abstract/document/9811356), we use Alternating Direction Method of Multipliers (ADMM) to derive a NN verification method, DeepSplit, that is scalable, modular, amenable to GPU acceleration and enjoys fast theoretical convergence guarantees. 
 
 ## Safety and stability analysis of learning-enabled systems
-<img src="/files/ROA_NN.png" alt="region of attraction estimation of NN-controlled system" width="200"/>
+<!-- <img src="/files/ROA_NN.png" alt="region of attraction estimation of NN-controlled system" width="200"/> -->
 
 Learning for control works great, but the gap between research in labs and deployment in the real world is hard to close. The coupling of learning modules and dynamical systems significantly complicates the analysis of the system's behavior. How can we make this leap to achieve assured autonomy?
 
