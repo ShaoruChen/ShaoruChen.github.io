@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). Previously, I obtained the Ph.D. degree in electrical and systems engineering from the [University of Pennsylvania (UPenn)](https://www.upenn.edu/). I was advised by Prof. [Victor M. Preciado](https://sites.google.com/site/victormpreciado/). At UPenn, I am also closely working with Prof. [Manfred Morari](https://directory.seas.upenn.edu/manfred-morari/), Prof. [George J. Pappas](https://www.georgejpappas.org/index.html), and Prof. [Nikolai Matni](https://nikolaimatni.github.io/). Before coming to UPenn, I received a B.E. degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/), China, in 2017.
+I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). Previously, I obtained the Ph.D. degree in electrical and systems engineering from the [University of Pennsylvania (UPenn)](https://www.upenn.edu/). I was advised by Prof. [Victor M. Preciado](https://sites.google.com/site/victormpreciado/). At UPenn, I am also closely working with Prof. [Manfred Morari](https://directory.seas.upenn.edu/manfred-morari/), Prof. [George J. Pappas](https://www.georgejpappas.org/index.html), and Prof. [Nikolai Matni](https://nikolaimatni.github.io/). Before coming to UPenn, I received a B.E. degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/), China, in 2017. 
 
-You can contact me at shaoruchen at microsoft dot com. 
+You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoruchen at microsoft dot com**. If you are interested in my research or want to collaborate, please feel free to reach me!
 
 ## About my research
 My long-term research goal is to make AI-enabled autonomous systems work safely and reliably in the real world. To achieve this, I believe in the following roadmap: First, develop scalable and efficient tools to analyze the safety/reliability of learning-enabled systems. Then, use the safety/reliability metrics to orchestrate the design of all learning modules in the autonomy stack until a desirable level of guarantee is satisfied. 
