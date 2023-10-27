@@ -8,7 +8,8 @@ author_profile: true
 
 ## Journal Publications
 
-4. **Shaoru Chen**, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023 (to appear).
+4. **Shaoru Chen**, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023 (to appear). 
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="50" height="50">
 
 3. Shuo Yang<sup>*</sup>, **Shaoru Chen**<sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. 
 
