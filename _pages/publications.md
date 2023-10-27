@@ -14,7 +14,7 @@ author_profile: true
   <a href="https://github.com/ShaoruChen/Polytopic-SLSMPC">	<img src="files/github.svg" width="20" height="20"> </a> 
 </li>
   <li>
-  	Shuo Yang<sup>*</sup>, <b>Shaoru Chen</b><sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. <a href="https://arxiv.org/pdf/2209.10034"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
+  	Shuo Yang<sup>*</sup>, <b>Shaoru Chen</b><sup>*</sup>, Victor M. Preciado, Rahul Mangharam. Differentiable Safe Controller Design through Control Barrier Functions. IEEE Control Systems Letters (L-CSS), 2022. <a href="https://arxiv.org/pdf/2209.10034"> <img src="/files/file-pdf-solid.svg" width="20" height="20"> </a> 
   </li>
   <li>
   	<b>Shaoru Chen</b><sup>*</sup>, Eric Wong<sup>*</sup>, J. Zico Kolter, and Mahyar Fazlyab. DeepSplit: Scalable Verification of Deep Neural Networks via Operator Splitting. IEEE Open Journal of Control Systems (OJCSYS), 2021. <a href="https://arxiv.org/pdf/2106.09117.pdf"> <img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-pdf.svg" width="20" height="20"> </a> 
