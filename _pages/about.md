@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://ww
 You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoruchen at microsoft dot com**. If you are interested in my research or want to collaborate, please feel free to reach me!
 
 ## About my research
-My long-term research goal is to make AI-enabled autonomous systems work safely and reliably in the real world. To achieve this, I believe in the following roadmap: First, develop scalable and efficient tools to analyze the safety/reliability of learning-enabled systems. Then, use the safety/reliability metrics to orchestrate the design of all learning modules in the autonomy stack until a desirable level of guarantee is satisfied. 
+My research focuses on developing scalable and efficient verification, optimization, and learning tools for safe control of complex nonlinear and learning-enabled systems with formal guarantees. My long-term research goal is to make AI-enabled autonomous systems work safely and reliably in the real world. To achieve this, I believe in the following roadmap: First, develop scalable and efficient tools to analyze the safety/reliability of learning-enabled systems. Then, use the safety/reliability metrics to orchestrate the design of all learning modules in the autonomy stack until a desirable level of guarantee is satisfied. 
 
 Following this route, my research has been focused on
 
