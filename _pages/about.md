@@ -13,15 +13,23 @@ I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://ww
 You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoruchen at microsoft dot com**. If you are interested in my research or want to collaborate, please feel free to reach me!
 
 ## About my research
-My research focuses on developing scalable and efficient verification, optimization, and learning tools for safe control of complex nonlinear and learning-enabled systems with formal guarantees. My long-term research goal is to make AI-enabled autonomous systems work safely and reliably in the real world. To achieve this, I believe in the following roadmap: First, develop scalable and efficient tools to analyze the safety/reliability of learning-enabled systems. Then, use the safety/reliability metrics to orchestrate the design of all learning modules in the autonomy stack until a desirable level of guarantee is satisfied. 
+My long-term research goal is to make AI-enabled autonomous systems work safely and reliably in the real world. My research focuses on developing scalable and efficient verification, optimization, and learning tools for safe control of complex nonlinear and learning-enabled systems with formal guarantees. I am interested in extending the scope of model-based methods to directly handle large-scale neural networks (NNs) such that we can naturally interface both learning and model-based methods through NNs and enable orchestration of both classes of methods for autonomous system design. My work includes:
 
-Following this route, my research has been focused on
+1. **Efficient Verification of NNs and Learning-Enabled Systems**: Certifying robustness of NNs and safety/stability of control systems with large-scale NNs in the loop.
 
-1. **Developing specialized optimization tools for NNs**: How can we efficiently certify the robustness of NNs and the safety/stability of a dynamical system with NNs in the loop? 
+2. **Safe Control of Learning-Enabled Systems**: Designing policies with safety guarantees for learning-enabled systems.
+
+3. **Verification-Guided Learning**: Integrating learning and verification to produce NN policies or certificates with formal guarantees.
+
+<!-- To achieve this, I believe in the following roadmap: First, develop scalable and efficient tools to analyze the safety/reliability of learning-enabled systems. Then, use the safety/reliability metrics to orchestrate the design of all learning modules in the autonomy stack until a desirable level of guarantee is satisfied.  -->
+
+<!-- Following this route, my research has been focused on -->
+
+1. <!-- **Developing specialized optimization tools for NNs**: How can we efficiently certify the robustness of NNs and the safety/stability of a dynamical system with NNs in the loop? 
 
 2. **Verification-aided learning of safety certificates and safe policies**: How should learning and verification interact to generate NN certificates or policies with formal guarantees?
 
-3. **Safe learning-based control**: How to correct an unsafe policy online with complex learning dynamics? 
+3. **Safe learning-based control**: How to correct an unsafe policy online with complex learning dynamics?  -->
 
 I am broadly interested in machine learning, control, and optimization problems that are related to autonomous system design. If you find my work interesting or have any questions, I am happy to have a discussion. 
 
