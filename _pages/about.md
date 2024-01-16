@@ -25,7 +25,7 @@ My long-term research goal is to make AI-enabled autonomous systems work safely 
 
 <!-- Following this route, my research has been focused on -->
 
-1. <!-- **Developing specialized optimization tools for NNs**: How can we efficiently certify the robustness of NNs and the safety/stability of a dynamical system with NNs in the loop? 
+<!-- 1. **Developing specialized optimization tools for NNs**: How can we efficiently certify the robustness of NNs and the safety/stability of a dynamical system with NNs in the loop? 
 
 2. **Verification-aided learning of safety certificates and safe policies**: How should learning and verification interact to generate NN certificates or policies with formal guarantees?
 
