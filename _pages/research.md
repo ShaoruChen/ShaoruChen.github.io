@@ -7,6 +7,11 @@ author_profile: true
 
 I am broadly interested in machine learning, control, and optimization. My goal is to make AI systems work safely and reliably in the real world. 
 
+## Representation Learning for Goal-Conditioned Planning
+<img src="/files/Pclast.png" align="left" alt="Representation learning for goal-conditioned planning" width="400"/>
+We discover a latent state representation conforming with the geometry of the environment from the high-dimensional observation data of the controllable agent. A multi-step inverse dynamics is learned to remove distracting information and a temporal constrastive learning method is applied to capture reachability of the environment in the latent space with respect to the Euclidean norm. Built on the learned latent representation and latent dynamics, we construct a computationally efficient hierarchical motion planner with boosted sampling efficiency. 
+
+
 ## Scalable Neural Network Verification
 <img src="/files/admm_module.png" align="left" alt="ADMM modules for NN verification" width="300"/>
 Neural network verification considers the problem of certifying if the output of a NN satisfies certain properties for a given input set. This is a fundamental problem in certifying the robustness of NNs and the safety of NN-controlled systems. 
@@ -14,7 +19,7 @@ Neural network verification considers the problem of certifying if the output of
 In [J2](https://ieeexplore.ieee.org/abstract/document/9811356), we use Alternating Direction Method of Multipliers (ADMM) to derive a NN verification method, DeepSplit, that is scalable, modular, amenable to GPU acceleration and enjoys fast theoretical convergence guarantees. 
 
 ## Verification-Aided Learning of Neural Ceritifcates
-<img src="/files/val_overview.png" align="left" alt="Verification-aided learning for neural certificates" width="300"/>
+<img src="/files/val_overview.png" align="left" alt="Verification-aided learning for neural certificates" width="350"/>
 It is easy to approximately learn a neural network certificate for an AI system, but to get a formal one is difficult. Using verification tools to find counterexamples for the learned neural certificates, we can iteratively refine the learned neural certificates toward a formal one. In [C11](https://arxiv.org/pdf/2403.07308.pdf), we reveal the continual learning nature of such a procedure and propose a fine-tuning approach for the solution refinement. The fine-tuning method is based on the cutting-plane method from convex optimziation, and a strong convergence guarantee of the iterative refinement procedure is provided. Our method can significantly boost the success rate of learning a formal neural certificate. 
 
 ## Safety and stability analysis of learning-enabled systems
