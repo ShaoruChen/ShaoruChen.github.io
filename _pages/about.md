@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://ww
 You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoruchen at microsoft dot com**. If you are interested in my research or want to collaborate, please feel free to reach me!
 
 ## About my research
-I am interested in making AI systems work reliably and safely. Previously, I have worked on:
+I am interested in making AI systems work reliably and safely. My research spans machine learning, control, and optimization. Currently, I am mainly working on evaluation of the reasoning power of large language models (LLMs) and using language model feedback for reinforcement learning. Previously, I have worked on:
 
 1. **Neural Network Verification**: Developing specialized and scalable optimization tools to verify properties of NNs and NN-controlled systems. 
 
@@ -23,7 +23,6 @@ I am interested in making AI systems work reliably and safely. Previously, I hav
 
 4. **Robust Model Predictive Control**: Boosting the tightness of robust MPC by jointly searching for robust feedback policies and system uncertainty over-approximations through convex programming. 
 
-I am broadly interested in machine learning, control, optimization, and formal methods. Currently, I am mainly working on evaluation of the reasoning power of large language models and using language model feedback for reinforcement learning. 
 
 <!-- version 2 -->
 <!-- My long-term research goal is to make AI-enabled autonomous systems work safely and reliably in the real world. My research focuses on developing scalable and efficient verification, optimization, and learning tools for safe control of complex nonlinear and learning-enabled systems with formal guarantees. I am interested in extending the scope of model-based methods to directly handle large-scale neural networks (NNs) such that we can naturally interface both learning and model-based methods through NNs and enable orchestration of both classes of methods for autonomous system design. My work includes:
