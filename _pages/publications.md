@@ -6,6 +6,19 @@ author_profile: true
 ---
 <sup>*</sup> denotes equal contribution. See my [Google scholar](https://scholar.google.com/citations?user=4O9c5ysAAAAJ&hl=en) for most recent updates. 
 
+## Preprints
+<ol reversed>
+  <li>
+    <b>Shaoru Chen</b>, Mahyar Fazlyab. Learning Performance-Oriented Control Barrier Functions Under Complex Safety Constraints and Limited Actuation. Submitted to Learning for Dynamics and Control (L4DC), 2024. <a href="https://arxiv.org/pdf/2401.05629.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Composite_CBF"><img src="/files/github.svg" width="20" height="20"></a> 
+</li>
+<li>
+  Anurag Koul<sup>*</sup> , Shivakanth Sujit<sup>*</sup>, <b>Shaoru Chen</b>, Ben Evans, Lili Wu, Byron Xu, Rajan Chari, Riashat Islam, Raihan Seraj, Yonathan Efroni, Lekan Molu, Miro Dudik, John Langford, Alex Lamb. PcLast: Discovering Plannable Continuous Latent States. Submitted to International Conference on Machine Learning (ICML), 2024. <a href="https://arxiv.org/pdf/2311.03534.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/shivakanthsujit/pclast"><img src="/files/github.svg" width="20" height="20"></a> 
+</li>
+<li>
+  Lekan Molu, <b>Shaoru Chen</b>. Structural Properties and Control of Soft Robots Modeled as Discrete Cosserat Rods. Submitted to the IEEE Conference on Decision and Control (CDC), 2024. <a href="https://arxiv.org/pdf/2312.05937.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/robotsorcerer/dcm"><img src="/files/github.svg" width="20" height="20"></a> 
+</li>
+</ol>
+
 ## Journal Publications
 
 <ol reversed>
@@ -26,6 +39,9 @@ author_profile: true
 
 ## Conference Publications
 <ol reversed>
+  <li>
+    <b>Shaoru Chen</b>, Lekan Molu, Mahyar Fazlyab. Verification-Aided Learning of Neural Network Barrier Functions with Termination Guarantees. American Control Conference (ACC), 2024. <a href="https://arxiv.org/pdf/2403.07308.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Neural-Barrier-Function"><img src="/files/github.svg" width="20" height="20"></a> 
+  </li>
   <li>
   	<b>Shaoru Chen</b><sup>*</sup>, Kong Yao Chee<sup>*</sup>, Nikolai Matni, M. Ani Hsieh, George J. Pappas. Safety Filter Design for Neural Network Systems via Convex Optimization. IEEE Conference on Decision and Control (CDC), 2023. <a href="https://arxiv.org/pdf/2308.08086.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/NN-System-PSF"><img src="/files/github.svg" width="20" height="20"></a> 
 </li>
