@@ -8,7 +8,7 @@ author_profile: true
 I am broadly interested in machine learning, control, and optimization. My goal is to make AI systems work safely and reliably in the real world. 
 
 ## Representation Learning for Goal-Conditioned Planning
-<img src="/files/Pclast.png" align="left" alt="Representation learning for goal-conditioned planning" width="400"/>
+<img src="/files/Pclast.png" align="left" alt="Representation learning for goal-conditioned planning" width="350"/>
 We discover a latent state representation conforming with the geometry of the environment from the high-dimensional observation data of the controllable agent. A multi-step inverse dynamics is learned to remove distracting information and a temporal constrastive learning method is applied to capture reachability of the environment in the latent space with respect to the Euclidean norm. Built on the learned latent representation and latent dynamics, we construct a computationally efficient hierarchical motion planner with boosted sampling efficiency. 
 
 
