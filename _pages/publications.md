@@ -8,6 +8,9 @@ author_profile: true
 
 ## Preprints
 <ol reversed>
+    <li>
+    Lakshmideepakreddy Manda, <b>Shaoru Chen</b>, Mahyar Fazlyab. Domain Adaptive Safety Filters via Deep Operator Learning. Submitted to IEEE Conference on Decision and Control (CDC), 2024. 
+  </li>
   <li>
     <b>Shaoru Chen</b>, Mahyar Fazlyab. Learning Performance-Oriented Control Barrier Functions Under Complex Safety Constraints and Limited Actuation. Submitted to Learning for Dynamics and Control (L4DC), 2024. <a href="https://arxiv.org/pdf/2401.05629.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Composite_CBF"><img src="/files/github.svg" width="20" height="20"></a> 
 </li>
