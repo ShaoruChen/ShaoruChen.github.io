@@ -13,7 +13,7 @@ I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://ww
 You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoruchen at microsoft dot com**. If you are interested in my research or want to collaborate, please feel free to reach me!
 
 ## About my research
-I am interested in making AI systems work reliably and safely. My research spans machine learning, control, and optimization. Currently, I am mainly working on evaluation of the reasoning power of large language models (LLMs) and using language model feedback for reinforcement learning. Previously, I have worked on:
+I am interested in making AI systems work reliably and safely. My research spans machine learning, control, and optimization. Currently, I am mainly working on **evaluation of the reasoning power of large language models (LLMs) and using language model feedback for reinforcement learning**. Previously, I have worked on:
 
 1. **Neural Network Verification**: Developing specialized and scalable optimization tools to verify properties of NNs and NN-controlled systems. 
 
