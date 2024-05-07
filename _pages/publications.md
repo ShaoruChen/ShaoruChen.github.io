@@ -15,9 +15,6 @@ author_profile: true
     <b>Shaoru Chen</b>, Mahyar Fazlyab. Learning Performance-Oriented Control Barrier Functions Under Complex Safety Constraints and Limited Actuation. Submitted to Learning for Dynamics and Control (L4DC), 2024. <a href="https://arxiv.org/pdf/2401.05629.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Composite_CBF"><img src="/files/github.svg" width="20" height="20"></a> 
 </li>
 <li>
-  Anurag Koul<sup>*</sup> , Shivakanth Sujit<sup>*</sup>, <b>Shaoru Chen</b>, Ben Evans, Lili Wu, Byron Xu, Rajan Chari, Riashat Islam, Raihan Seraj, Yonathan Efroni, Lekan Molu, Miro Dudik, John Langford, Alex Lamb. PcLast: Discovering Plannable Continuous Latent States. Submitted to International Conference on Machine Learning (ICML), 2024. <a href="https://arxiv.org/pdf/2311.03534.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/shivakanthsujit/pclast"><img src="/files/github.svg" width="20" height="20"></a> 
-</li>
-<li>
   Lekan Molu, <b>Shaoru Chen</b>. Structural Properties and Control of Soft Robots Modeled as Discrete Cosserat Rods. Submitted to the IEEE Conference on Decision and Control (CDC), 2024. <a href="https://arxiv.org/pdf/2312.05937.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/robotsorcerer/dcm"><img src="/files/github.svg" width="20" height="20"></a> 
 </li>
 </ol>
@@ -25,6 +22,9 @@ author_profile: true
 ## Journal Publications
 
 <ol reversed>
+  <li>
+  Anurag Koul<sup>*</sup> , Shivakanth Sujit<sup>*</sup>, <b>Shaoru Chen</b>, Ben Evans, Lili Wu, Byron Xu, Rajan Chari, Riashat Islam, Raihan Seraj, Yonathan Efroni, Lekan Molu, Miro Dudik, John Langford, Alex Lamb. PcLast: Discovering Plannable Continuous Latent States. International Conference on Machine Learning (ICML), 2024. <a href="https://arxiv.org/pdf/2311.03534.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/shivakanthsujit/pclast"><img src="/files/github.svg" width="20" height="20"></a> 
+  </li>
   <li>
   	<b>Shaoru Chen</b>, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023. <a href="https://arxiv.org/pdf/2203.11375"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Polytopic-SLSMPC"><img src="/files/github.svg" width="20" height="20"></a> 
 </li>
