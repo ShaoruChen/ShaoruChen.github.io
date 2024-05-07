@@ -23,9 +23,6 @@ author_profile: true
 
 <ol reversed>
   <li>
-  Anurag Koul<sup>*</sup> , Shivakanth Sujit<sup>*</sup>, <b>Shaoru Chen</b>, Ben Evans, Lili Wu, Byron Xu, Rajan Chari, Riashat Islam, Raihan Seraj, Yonathan Efroni, Lekan Molu, Miro Dudik, John Langford, Alex Lamb. PcLast: Discovering Plannable Continuous Latent States. International Conference on Machine Learning (ICML), 2024. <a href="https://arxiv.org/pdf/2311.03534.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/shivakanthsujit/pclast"><img src="/files/github.svg" width="20" height="20"></a> 
-  </li>
-  <li>
   	<b>Shaoru Chen</b>, Victor M. Preciado, Manfred Morari, Nikolai Matni. Robust Model Predictive Control with Polytopic Model Uncertainty through System Level Synthesis. Automatica, 2023. <a href="https://arxiv.org/pdf/2203.11375"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Polytopic-SLSMPC"><img src="/files/github.svg" width="20" height="20"></a> 
 </li>
   <li>
@@ -42,6 +39,9 @@ author_profile: true
 
 ## Conference Publications
 <ol reversed>
+  <li>
+  Anurag Koul<sup>*</sup> , Shivakanth Sujit<sup>*</sup>, <b>Shaoru Chen</b>, Ben Evans, Lili Wu, Byron Xu, Rajan Chari, Riashat Islam, Raihan Seraj, Yonathan Efroni, Lekan Molu, Miro Dudik, John Langford, Alex Lamb. PcLast: Discovering Plannable Continuous Latent States. International Conference on Machine Learning (ICML), 2024. <a href="https://arxiv.org/pdf/2311.03534.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/shivakanthsujit/pclast"><img src="/files/github.svg" width="20" height="20"></a> 
+  </li>
   <li>
     <b>Shaoru Chen</b>, Lekan Molu, Mahyar Fazlyab. Verification-Aided Learning of Neural Network Barrier Functions with Termination Guarantees. American Control Conference (ACC), 2024. <a href="https://arxiv.org/pdf/2403.07308.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Neural-Barrier-Function"><img src="/files/github.svg" width="20" height="20"></a> 
   </li>
