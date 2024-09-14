@@ -17,14 +17,14 @@ You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoche
 ## Things not on my LinkedIn profile
 - I like hiking and playing board games. 
 - I want to design a fun board game someday. 
-- I enjoy writing and am practicing to be a daily blogger. If you are a WeChat user, you can find me by scanning the QR code below. 
+- I enjoy writing and am practicing to be a daily blogger. If you are a WeChat (微信) user, you can find me by scanning the QR code below. 
 
 <img src="/files/wechat_qrcode.jpg" align="left" alt="WeChat account QR code" width="300"/>
 
 
 <!-- I was advised by Prof. [Victor M. Preciado](https://sites.google.com/site/victormpreciado/). At UPenn, I am also closely working with Prof. [Manfred Morari](https://directory.seas.upenn.edu/manfred-morari/), Prof. [George J. Pappas](https://www.georgejpappas.org/index.html), and Prof. [Nikolai Matni](https://nikolaimatni.github.io/).  -->
 
-#<!-- # About my research
+<!-- # About my research
 I am interested in making AI systems work reliably and safely. My research spans machine learning, control, and optimization. Currently, I am mainly working on **evaluation of the reasoning power of large language models (LLMs) and using language model feedback for reinforcement learning**. Previously, I have worked on:
 
 1. **Neural Network Verification**: Developing specialized and scalable optimization tools to verify properties of NNs and NN-controlled systems. 
