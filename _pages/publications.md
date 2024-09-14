@@ -6,19 +6,6 @@ author_profile: true
 ---
 <sup>*</sup> denotes equal contribution. See my [Google scholar](https://scholar.google.com/citations?user=4O9c5ysAAAAJ&hl=en) for most recent updates. 
 
-## Preprints
-<ol reversed>
-    <li>
-    Lakshmideepakreddy Manda, <b>Shaoru Chen</b>, Mahyar Fazlyab. Domain Adaptive Safety Filters via Deep Operator Learning. Submitted to IEEE Conference on Decision and Control (CDC), 2024. 
-  </li>
-  <li>
-    <b>Shaoru Chen</b>, Mahyar Fazlyab. Learning Performance-Oriented Control Barrier Functions Under Complex Safety Constraints and Limited Actuation. Submitted to Learning for Dynamics and Control (L4DC), 2024. <a href="https://arxiv.org/pdf/2401.05629.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Composite_CBF"><img src="/files/github.svg" width="20" height="20"></a> 
-</li>
-<li>
-  Lekan Molu, <b>Shaoru Chen</b>. Structural Properties and Control of Soft Robots Modeled as Discrete Cosserat Rods. Submitted to the IEEE Conference on Decision and Control (CDC), 2024. <a href="https://arxiv.org/pdf/2312.05937.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/robotsorcerer/dcm"><img src="/files/github.svg" width="20" height="20"></a> 
-</li>
-</ol>
-
 ## Journal Publications
 
 <ol reversed>
@@ -39,6 +26,15 @@ author_profile: true
 
 ## Conference Publications
 <ol reversed>
+  <li>
+    Lakshmideepakreddy Manda, <b>Shaoru Chen</b>, Mahyar Fazlyab. Learning Performance-Oriented Control Barrier Functions under Complex Safety Constraints and Limited Actuation. Conference on Robot Learning (CoRL), 2024. <a href="https://arxiv.org/pdf/2401.05629.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/ShaoruChen/Composite_CBF"><img src="/files/github.svg" width="20" height="20"></a> 
+  </li>
+  <li>
+    Lakshmideepakreddy Manda, <b>Shaoru Chen</b>, Mahyar Fazlyab. Domain Adaptive Safety Filters via Deep Operator Learning. IEEE Conference on Decision and Control (CDC), 2024. 
+  </li>
+  <li>
+    Lekan Molu, <b>Shaoru Chen</b>. Structural Properties and Control of Soft Robots Modeled as Discrete Cosserat Rods. IEEE Conference on Decision and Control (CDC), 2024. <a href="https://arxiv.org/pdf/2312.05937.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/robotsorcerer/dcm"><img src="/files/github.svg" width="20" height="20"></a> 
+  </li>
   <li>
   Anurag Koul<sup>*</sup> , Shivakanth Sujit<sup>*</sup>, <b>Shaoru Chen</b>, Ben Evans, Lili Wu, Byron Xu, Rajan Chari, Riashat Islam, Raihan Seraj, Yonathan Efroni, Lekan Molu, Miro Dudik, John Langford, Alex Lamb. PcLast: Discovering Plannable Continuous Latent States. International Conference on Machine Learning (ICML), 2024. <a href="https://arxiv.org/pdf/2311.03534.pdf"> <img src="/files/file-pdf-solid.svg" width="20" height="20"></a><a href="https://github.com/shivakanthsujit/pclast"><img src="/files/github.svg" width="20" height="20"></a> 
   </li>
