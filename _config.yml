@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shaoru Chen"
 title_separator          : "-"
 name                     : &name "Shaoru Chen"
-description              : &description "Postdoctoral Researcher in Microsoft Research"
+description              : &description "LinkedIn, Mountain View, CA"
 url                      : https://shaoruchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shaoruchen.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Shaoru Chen"
   avatar           : "profile.JPG"
-  bio              : "Machine learning, control, and optimization."
+  bio              : "Senior Machine Learning Engineer at LinkedIn. Productionizing Generative AI."
   location         : 
-  employer         : "Microsoft Research, NYC"
+  employer         : "LinkedIn, Mountain View, CA"
   pubmed           : 
   linkedin         : "shaoru-chen-081a40129/"
   github           : "ShaoruChen"

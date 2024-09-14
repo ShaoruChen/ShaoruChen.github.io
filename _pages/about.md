@@ -8,11 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Researcher at [Microsoft Research, NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). Previously, I obtained the Ph.D. degree in electrical and systems engineering from the [University of Pennsylvania (UPenn)](https://www.upenn.edu/). I was advised by Prof. [Victor M. Preciado](https://sites.google.com/site/victormpreciado/). At UPenn, I am also closely working with Prof. [Manfred Morari](https://directory.seas.upenn.edu/manfred-morari/), Prof. [George J. Pappas](https://www.georgejpappas.org/index.html), and Prof. [Nikolai Matni](https://nikolaimatni.github.io/). Before coming to UPenn, I received a B.E. degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/), China, in 2017. 
+I am a Senior Machine Learning Engineer at [LinkedIn](https://www.linkedin.com/) working on integrating generative AI into ads campaign design and ads recommendation. Previously, I was a Postdoctoral Researcher at [Microsoft Research, NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/), and obtained the Ph.D. degree in electrical and systems engineering from the [University of Pennsylvania (UPenn)](https://www.upenn.edu/). I received a B.E. degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/), China, in 2017. 
 
-You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaoruchen at microsoft dot com**. If you are interested in my research or want to collaborate, please feel free to reach me!
+I am passionate about **productionizing generative AI** and working in this direction. Meanwhile, I am broadly interested in research problems in machine learning, robotics, and control, with ~20 publications in major conferences and journals in these fields. I am happy to discuss anything related to my previous research and projects. 
 
-## About my research
+You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaochen at linkedin dot com**. 
+
+## Things not on my LinkedIn profile
+- I like hiking and playing board games. 
+- I want to design a fun board game someday. 
+- I enjoy writing and am practicing to be a daily blogger. If you are a WeChat user, you can find me by scanning the QR code below. 
+
+<img src="/files/wechat_qrcode.jpg" align="left" alt="WeChat account QR code" width="300"/>
+
+
+<!-- I was advised by Prof. [Victor M. Preciado](https://sites.google.com/site/victormpreciado/). At UPenn, I am also closely working with Prof. [Manfred Morari](https://directory.seas.upenn.edu/manfred-morari/), Prof. [George J. Pappas](https://www.georgejpappas.org/index.html), and Prof. [Nikolai Matni](https://nikolaimatni.github.io/).  -->
+
+#<!-- # About my research
 I am interested in making AI systems work reliably and safely. My research spans machine learning, control, and optimization. Currently, I am mainly working on **evaluation of the reasoning power of large language models (LLMs) and using language model feedback for reinforcement learning**. Previously, I have worked on:
 
 1. **Neural Network Verification**: Developing specialized and scalable optimization tools to verify properties of NNs and NN-controlled systems. 
@@ -21,7 +33,7 @@ I am interested in making AI systems work reliably and safely. My research spans
 
 3. **Verification-Aided Learning of Neural Certificates**: Investigating how to best couple verification and learning to find a formal neural network certificate for learning-enabled systems. 
 
-4. **Robust Model Predictive Control**: Boosting the tightness of robust MPC by jointly searching for robust feedback policies and system uncertainty over-approximations through convex programming. 
+4. **Robust Model Predictive Control**: Boosting the tightness of robust MPC by jointly searching for robust feedback policies and system uncertainty over-approximations through convex programming.  -->
 
 
 <!-- version 2 -->
