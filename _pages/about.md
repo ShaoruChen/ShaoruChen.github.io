@@ -12,15 +12,15 @@ I am a Senior Machine Learning Engineer at [LinkedIn](https://www.linkedin.com/)
 
 I am passionate about **productionizing generative AI** and working in this direction. Meanwhile, I am broadly interested in research problems in machine learning, robotics, and control, with ~20 publications in major conferences and journals in these fields. I am happy to discuss anything related to my previous research and projects. 
 
-You can find my CV [here](/files/Shaoru_Chen_CV.pdf) and contact me at **shaochen at linkedin dot com**. 
+You can find my CV here [EN](/files/Shaoru_Chen_CV.pdf)/[中文](/files/Shaoru_Chen_CV_zh.pdf). 
 
-## Things not on my LinkedIn profile
+<!-- ## Things not on my LinkedIn profile
 - I like hiking and playing board games. 
 - I want to design a fun board game someday. 
 - I enjoy writing and am practicing to be a daily blogger. If you are a WeChat (微信) user, you can find me by scanning the QR code below. 
 
 <img src="/files/wechat_qrcode.jpg" align="left" alt="WeChat account QR code" width="300"/>
-
+ -->
 
 <!-- I was advised by Prof. [Victor M. Preciado](https://sites.google.com/site/victormpreciado/). At UPenn, I am also closely working with Prof. [Manfred Morari](https://directory.seas.upenn.edu/manfred-morari/), Prof. [George J. Pappas](https://www.georgejpappas.org/index.html), and Prof. [Nikolai Matni](https://nikolaimatni.github.io/).  -->
 
